@@ -1,0 +1,6 @@
+name: ClassPath
+main: com.untamedears.classpath.ClassPath
+version: 1
+description: Loads jars into the class path
+author: erocs
+database: false
